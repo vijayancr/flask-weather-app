@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Docker image files
+*.tar
+
